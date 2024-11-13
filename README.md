@@ -1,37 +1,12 @@
 # 易支付系统新版正版免授权
+https://blog.zibovip.top/230.html
 
 #### 介绍
 易支付系统新版正版免授权
 
-#### 软件架构
-软件架构说明
+一、拉卡拉聚合收银台支付简介
 
+拉卡拉聚合收银台支付是一种整合了多种支付方式的支付服务，包括但不限于微信支付、支付宝支付、银联支付等。它为商户提供了一个统一的支付入口，使得商户无需分别接入各种支付方式，从而大大简化了支付过程。
 
-#### 安装教程
+## 以下是写好的文件：https://blog.zibovip.top/113.html
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
